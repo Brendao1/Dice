@@ -3,10 +3,11 @@
 class Dice
 
   def initialize
-    
+    dice = Dice
   end
 
-  # def roll
-  # end
+  def roll
+    rand(1..7)
+  end
 
 end
