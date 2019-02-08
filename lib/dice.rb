@@ -2,6 +2,10 @@
 
 class Dice
 
-  def roll
+  def initialize
   end
+
+  # def roll
+  # end
+
 end
