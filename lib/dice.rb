@@ -2,5 +2,6 @@
 
 class Dice
 
-# first test created and passed
+  def roll
+  end
 end
