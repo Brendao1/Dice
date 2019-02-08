@@ -7,7 +7,7 @@ class Dice
   end
 
   def roll
-    rand(1..7)
+    rand(1..6)
   end
 
 end
