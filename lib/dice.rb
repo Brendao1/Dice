@@ -2,6 +2,5 @@
 
 class Dice
 
-# testing
-# testing again
+# first test created and passed
 end
