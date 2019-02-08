@@ -3,6 +3,7 @@
 class Dice
 
   def initialize
+    
   end
 
   # def roll
