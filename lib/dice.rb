@@ -10,4 +10,8 @@ class Dice
     rand(1..6)
   end
 
+  def num_dice(number)
+  end
+
+
 end
