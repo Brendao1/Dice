@@ -8,9 +8,8 @@ describe Dice do
   # end
 
   it 'rolls a random number between 1 and 6' do
-   dice = Dice.new
-   dice.roll
-   expect(dice.roll).to be_between(1, 6)
+   subject.roll
+   expect(subject.roll).to be_between(1, 6)
   end
 
  # # it 'responds to num_dice method' do

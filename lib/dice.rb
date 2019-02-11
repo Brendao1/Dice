@@ -7,6 +7,7 @@ class Dice
   end
 
   def roll
+    # scores = []
     rand(1..6)
   end
 
