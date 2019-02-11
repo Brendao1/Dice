@@ -1,10 +1,11 @@
 require 'dice'
 
 describe Dice do
+  subject { Dice.new }
 
-  it 'is created from the initlize command with one parameter' do
-    Dice.new
-  end
+  # it 'is created from the initlize command with one parameter' do
+  #   Dice.new
+  # end
 
   it 'rolls a random number between 1 and 6' do
    dice = Dice.new
